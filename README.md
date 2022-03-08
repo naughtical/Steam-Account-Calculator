@@ -3,3 +3,6 @@ A program that, on input of the html from your steam account history, will outpu
 
 TO USE
 Run the program and enter the path of the html file from your steam account history in the entry box. Press "RUN" and your price will be displayed. 
+
+TO-DO:
+Go through file directly from a link, rather than needing an input file
